@@ -25,11 +25,11 @@
     "url": "http://datatables.net"
   },
   "dependencies": {
-    "@arnoschn/datatables.net": "^1.10.15"
+    "@arnoschn/datatables.net":
+      "git+https://github.com/arnoschn/Dist-DataTables.git#4b7620e3ef21e867fba42baa5bac867b54c6a299"
   },
   "repository": {
     "type": "git",
-    "url":
-      "https://github.com/DataTables/Dist-DataTables-Buttons.git#4b7620e3ef21e867fba42baa5bac867b54c6a299"
+    "url": "https://github.com/DataTables/Dist-DataTables-Buttons.git"
   }
 }
