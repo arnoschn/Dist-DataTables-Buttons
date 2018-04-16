@@ -1,6 +1,7 @@
 {
     "name": "@arnoschn/datatables.net-buttons",
     "version": "1.5.1",
+    "private":true,
     "description": "Buttons for DataTables ",
     "files": [
         "js/**/*.js"
