@@ -1,36 +1,35 @@
 {
-    "name": "@arnoschn/datatables.net-buttons",
-    "version": "1.5.1",
-    "private":true,
-    "description": "Buttons for DataTables ",
-    "files": [
-        "js/**/*.js"
-    ],
-    "main": "js/dataTables.buttons.js",
-    "keywords": [
-        "buttons",
-        "excel",
-        "pdf",
-        "csv",
-        "column visibility",
-        "print",
-        "DataTables",
-        "jQuery",
-        "table",
-        "DataTables"
-    ],
-    "homepage": "https://datatables.net",
-    "bugs": "https://datatables.net/forums",
-    "license": "MIT",
-    "author": {
-        "name": "SpryMedia Ltd",
-        "url": "http://datatables.net"
-    },
-    "dependencies": {
-        "@arnoschn/datatables.net": "^1.10.15"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/DataTables/Dist-DataTables-Buttons.git"
-    }
+  "name": "@arnoschn/datatables.net-buttons",
+  "version": "1.5.1",
+  "private": true,
+  "description": "Buttons for DataTables ",
+  "files": ["js/**/*.js"],
+  "main": "js/dataTables.buttons.js",
+  "keywords": [
+    "buttons",
+    "excel",
+    "pdf",
+    "csv",
+    "column visibility",
+    "print",
+    "DataTables",
+    "jQuery",
+    "table",
+    "DataTables"
+  ],
+  "homepage": "https://datatables.net",
+  "bugs": "https://datatables.net/forums",
+  "license": "MIT",
+  "author": {
+    "name": "SpryMedia Ltd",
+    "url": "http://datatables.net"
+  },
+  "dependencies": {
+    "@arnoschn/datatables.net": "^1.10.15"
+  },
+  "repository": {
+    "type": "git",
+    "url":
+      "https://github.com/DataTables/Dist-DataTables-Buttons.git#4b7620e3ef21e867fba42baa5bac867b54c6a299"
+  }
 }
